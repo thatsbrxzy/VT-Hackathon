@@ -7,6 +7,12 @@ html, body {
     justify-content: center;
     align-items: center;
 }
+#map {
+    height: 500px;
+    width: 80%;
+    margin: 20px auto; 
+    border: 1px solid #333; 
+}
 
 #navbar {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
